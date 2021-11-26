@@ -25,7 +25,7 @@ download the template you would like to use, you can run the following
 cURL command:
 
 ```
-curl -O https://raw.githubusercontent.com/redmindab/pr-templates/master/frontend/PULL_REQUEST_TEMPLATE
+curl -O https://raw.githubusercontent.com/redmindab/pr-templates/main/react-native/PULL_REQUEST_TEMPLATE
 ```
 
 Every template is named `PULL_REQUEST_TEMPLATE` for easy installation, so you
