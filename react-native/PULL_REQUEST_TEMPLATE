@@ -1,0 +1,26 @@
+## Changes
+
+- Description of changes
+
+## Screenshots
+
+(prefer animated gif)
+
+## How to verify
+
+1. ...
+2. ...
+3. ...
+
+## Setup
+
+- [ ] Requires npm ci
+- [ ] Requires pod install
+
+## Checklist
+
+- [ ] Is tested on iOS device
+- [ ] Is tested on Android device
+- [ ] Looks good on large device
+- [ ] Looks good on small device
+- [ ] Linked to shortcut story
